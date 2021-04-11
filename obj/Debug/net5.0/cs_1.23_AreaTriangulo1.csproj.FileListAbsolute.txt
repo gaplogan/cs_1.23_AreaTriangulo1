@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\cs_1.23_AreaTriangulo1.exe
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\cs_1.23_AreaTriangulo1.deps.json
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\cs_1.23_AreaTriangulo1.runtimeconfig.json
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\cs_1.23_AreaTriangulo1.runtimeconfig.dev.json
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\cs_1.23_AreaTriangulo1.dll
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\ref\cs_1.23_AreaTriangulo1.dll
+E:\GitHub\cs_1.23_AreaTriangulo1\bin\Debug\net5.0\cs_1.23_AreaTriangulo1.pdb
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.csprojAssemblyReference.cache
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.AssemblyInfo.cs
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.dll
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\ref\cs_1.23_AreaTriangulo1.dll
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.pdb
+E:\GitHub\cs_1.23_AreaTriangulo1\obj\Debug\net5.0\cs_1.23_AreaTriangulo1.genruntimeconfig.cache
